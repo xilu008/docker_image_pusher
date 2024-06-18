@@ -1,3 +1,6 @@
-golang:1.22.4
-php:8.2.20-fpm
-node:22.3.0
+mysql:8.4.0
+mongo:7.0.11
+redis:7.2.5
+elasticsearch:8.14.1
+rabbitmq:3.13.3
+nginx:1.27.0
